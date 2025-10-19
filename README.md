@@ -30,7 +30,7 @@ Chúc Mừng Ngày Phụ Nữ Việt Nam🌹💖
   }  
 
   h2 {  
-    font-size: 1.1em;  
+    font-size: 1.0em;  
     font-weight: normal;  
     color: #d81b60;  
     text-shadow:  
